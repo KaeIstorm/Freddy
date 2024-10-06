@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.33920.267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreddyBot.Core", "FreddyBot.Core\FreddyBot.Core.csproj", "{E09595B3-9DA8-43C7-9580-02E67D9A515A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLib", "QLib\QLib.csproj", "{AC9778FD-2E07-4B28-9EF5-2910EB4D08A4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSharpPlus.EventsBinderExtension", "DSharpPlus.EventsBinderExtension\DSharpPlus.EventsBinderExtension.csproj", "{36E55541-D57B-4894-9032-B56B00F6564A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordExtensions", "DiscordExtensions\DiscordExtensions.csproj", "{5F2F7F1C-B37E-4EC5-A8CA-5E866B435919}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting.FreddyBot.Core", "UnitTesting.FreddyBot.Core\UnitTesting.FreddyBot.Core.csproj", "{DC562D96-3343-4A94-8D06-1F28787993C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLib.Nitro", "QLib.Nitro\QLib.Nitro.csproj", "{55BC01E1-5C37-4866-8D9D-B260405A5834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09595B3-9DA8-43C7-9580-02E67D9A515A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09595B3-9DA8-43C7-9580-02E67D9A515A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09595B3-9DA8-43C7-9580-02E67D9A515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09595B3-9DA8-43C7-9580-02E67D9A515A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9778FD-2E07-4B28-9EF5-2910EB4D08A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9778FD-2E07-4B28-9EF5-2910EB4D08A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9778FD-2E07-4B28-9EF5-2910EB4D08A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9778FD-2E07-4B28-9EF5-2910EB4D08A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E55541-D57B-4894-9032-B56B00F6564A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E55541-D57B-4894-9032-B56B00F6564A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E55541-D57B-4894-9032-B56B00F6564A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E55541-D57B-4894-9032-B56B00F6564A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2F7F1C-B37E-4EC5-A8CA-5E866B435919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2F7F1C-B37E-4EC5-A8CA-5E866B435919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2F7F1C-B37E-4EC5-A8CA-5E866B435919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2F7F1C-B37E-4EC5-A8CA-5E866B435919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC562D96-3343-4A94-8D06-1F28787993C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC562D96-3343-4A94-8D06-1F28787993C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC562D96-3343-4A94-8D06-1F28787993C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC562D96-3343-4A94-8D06-1F28787993C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BC01E1-5C37-4866-8D9D-B260405A5834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BC01E1-5C37-4866-8D9D-B260405A5834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BC01E1-5C37-4866-8D9D-B260405A5834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BC01E1-5C37-4866-8D9D-B260405A5834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95895CA-50A0-4E3C-B32C-60828F92B435}
+	EndGlobalSection
+EndGlobal
